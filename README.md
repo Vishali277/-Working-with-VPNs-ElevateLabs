@@ -19,4 +19,4 @@ The objective of this task was to gain practical experience with VPNs, a critica
 ## Files in This Repository
 * **`README.md`**: This detailed project report.
 * **`setup_report.md`**: A document detailing the setup steps and defining key VPN concepts.
-* **`vpn_connection_status.jpg`**: A screenshot showing the active and protected ProtonVPN connection to a US server.
+* **`vpn_connection_status.png`**: A screenshot showing the active and protected ProtonVPN connection to a US server.
